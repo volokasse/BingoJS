@@ -1,0 +1,25 @@
+/* COLORS */
+@use 'sass:color';
+
+:root
+{
+    --c-grey: #3C3C3C;
+    --c-black: #282828;
+    --c-white: #DADCE0;
+    --c-blue: #004A77;
+    --c-red: #FE0000;
+    --c-option: #535353;
+    --c-gold: #FFD700;
+    --c-silver: #C0C0C0;
+    --c-bronze: #CD7F32;
+}
+
+$c-grey: #3C3C3C;
+$c-black: #282828;
+$c-white: #DADCE0;
+$c-blue: #004A77;
+$c-red: #FE0000;
+$c-grey: #535353;
+$c-gold: #FFD700;
+$c-silver: #C0C0C0;
+$c-bronze: #CD7F32;
